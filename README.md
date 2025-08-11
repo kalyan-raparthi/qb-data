@@ -157,9 +157,3 @@ This roadmap outlines a structured learning path for mastering **Data Science** 
 - Join AI communities
 
 ---
-
-**💡 Tip:** Learn by doing — practice with real datasets, contribute to open source, and build projects.
-
----
-
-**Author:** AI Learning Roadmap by ChatGPT
